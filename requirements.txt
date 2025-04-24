@@ -9,3 +9,9 @@ Jinja2
 notebook
 xgboost
 black
+python-dotenv
+python-box
+PyYAML
+ensure
+joblib
+#-e.
